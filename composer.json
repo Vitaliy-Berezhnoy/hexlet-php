@@ -1,5 +1,10 @@
 {
     "name": "vitaliy333/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Pairs.php"
+        ]
+    }
     "description": "example package",
     "authors": [
         {
@@ -7,5 +12,7 @@
             "email": "ipbvv@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^12.18"
+    }
 }
