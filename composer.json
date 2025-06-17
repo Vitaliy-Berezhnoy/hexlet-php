@@ -4,7 +4,7 @@
         "files": [
             "src/Pairs.php"
         ]
-    }
+    },
     "description": "example package",
     "authors": [
         {
