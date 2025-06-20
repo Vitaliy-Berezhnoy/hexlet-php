@@ -1,4 +1,6 @@
-namespace hexlet\php\Runner;
+<?php
+
+namespace Hexlet\Php\Runner;
 
 
 function run()

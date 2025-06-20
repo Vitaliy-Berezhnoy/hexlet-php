@@ -2,7 +2,7 @@
     "name": "vitaliy333/hexlet-php",
     "autoload": {
         "files": [
-            "src/Pairs.php"
+            "src/Runner.php"
         ]
     },
     "description": "example package",
